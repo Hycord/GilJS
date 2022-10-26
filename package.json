@@ -2,7 +2,11 @@
   "name": "giljs",
   "version": "0.0.0",
   "description": "",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "contributors": [
+    "Hycord <hycord@hycordia.com> (https://hycord.is-a.dev/)"
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.25.0"
+  }
 }

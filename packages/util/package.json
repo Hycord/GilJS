@@ -1,0 +1,17 @@
+{
+  "name": "@giljs/util",
+  "version": "0.0.0",
+  "description": "Utility library for GilJs",
+  "main": "dist/index.js",
+  "license": "ISC",
+  "contributors": [
+    "Hycord <hycord@hycordia.com> (https://hycord.is-a.dev/)"
+  ],
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  },
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
